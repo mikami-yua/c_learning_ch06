@@ -58,7 +58,7 @@ void isInCircle(Circle& c, Point& p) {
 	}
 }
 
-int main() {
+int fun6() {
 	
 	Circle c;
 	c.setR(10);

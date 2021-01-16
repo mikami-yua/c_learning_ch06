@@ -145,6 +145,11 @@
     <ClCompile Include="04 私有化成员属性.cpp" />
     <ClCompile Include="05 案例.cpp" />
     <ClCompile Include="06 案例.cpp" />
+    <ClCompile Include="07 构造和析构函数.cpp" />
+    <ClCompile Include="08 初始化列表.cpp" />
+    <ClCompile Include="09 静态成员函数.cpp" />
+    <ClCompile Include="10 this指针.cpp" />
+    <ClCompile Include="11 const修饰成员函数.cpp" />
     <ClCompile Include="circle.cpp" />
     <ClCompile Include="point.cpp" />
   </ItemGroup>
