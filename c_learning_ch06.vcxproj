@@ -144,6 +144,13 @@
     <ClCompile Include="03 权限.cpp" />
     <ClCompile Include="04 私有化成员属性.cpp" />
     <ClCompile Include="05 案例.cpp" />
+    <ClCompile Include="06 案例.cpp" />
+    <ClCompile Include="circle.cpp" />
+    <ClCompile Include="point.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="circle.h" />
+    <ClInclude Include="point.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
