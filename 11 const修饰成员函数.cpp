@@ -32,7 +32,7 @@ void func111() {
 	p.b = 100;
 }
 
-int main() {
+int fun11() {
 	
 	system("pause");
 	return 0;

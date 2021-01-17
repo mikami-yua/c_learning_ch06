@@ -54,6 +54,12 @@
     <ClCompile Include="11 const修饰成员函数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="12 友元.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="13 运算符重载.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="point.h">

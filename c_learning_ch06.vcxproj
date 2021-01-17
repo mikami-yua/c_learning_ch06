@@ -150,6 +150,8 @@
     <ClCompile Include="09 静态成员函数.cpp" />
     <ClCompile Include="10 this指针.cpp" />
     <ClCompile Include="11 const修饰成员函数.cpp" />
+    <ClCompile Include="12 友元.cpp" />
+    <ClCompile Include="13 运算符重载.cpp" />
     <ClCompile Include="circle.cpp" />
     <ClCompile Include="point.cpp" />
   </ItemGroup>
