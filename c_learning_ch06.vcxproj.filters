@@ -60,6 +60,18 @@
     <ClCompile Include="13 运算符重载.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="14 继承.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="15 多态.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="16 多态例子.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="17 多态例子2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="point.h">
